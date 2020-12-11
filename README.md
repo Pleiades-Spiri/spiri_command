@@ -25,6 +25,6 @@ step 4: open a new terminal run    roslauch mavros px4_spiri.launch
 
 step 5: run python mission_upload.py.
 
-step 5: connect your Qgroundcontrol.
+step 6: connect your Qgroundcontrol.
 
-step 6: open another terminal run   python mission.py
+step 7: open another terminal run   python mission.py
